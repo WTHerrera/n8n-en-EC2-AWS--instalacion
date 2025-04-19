@@ -199,4 +199,5 @@ sudo systemctl restart nginx
 
 > 🎯 **Resultado esperado**: Al finalizar, tu instancia debería estar accesible vía HTTPS desde `https://n8n.tudominio.com`.
 ---
-> este procedimiento se actualizó a partir de => https://github.com/Josh1313/n8n_AWS_installation
+> Este procedimiento se actualizó a partir de => https://github.com/Josh1313/n8n_AWS_installation
+> Para seguir un paso a paso visual visitar => https://youtu.be/1pdVcnn7nZ8
