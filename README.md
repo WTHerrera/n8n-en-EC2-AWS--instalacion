@@ -2,8 +2,7 @@
 
 ### ☑ Paso 0: Creación de una instancia en EC2 en AWS:
 - Seguior el siguiente Tutorial => `Agregar tutorial`
-- Despues de varios pasos debemos tener una instancia creada como: `i-05957bae28513bf8e (n8n-AWS)`
- 
+- Despues de varios pasos debemos tener una instancia creada como: `i-05xxxxxx28513xxx (n8n-AWS)` 
 ---
 ### ✅ Paso 1: Conectarse a la instancia EC2 de AWS mediante SSH
 - Abrir terminal **como administrador**. En Windows  escribir `cmd` en **Buscar** (*esquina inferior izquierdo, al lado del simbolo de Windows*), luego clik en  `Ejecutar como administrador`.
