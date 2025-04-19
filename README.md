@@ -1,7 +1,7 @@
 ## 🚀 Configuración de AWS para Docker🐳 y Nginx y certificado 🔒 con Certbot con n8n 🤖
 
 ### ☑ Paso 0: Creación de una instancia en EC2 en AWS:
-- Seguir el siguiente Tutorial => https://github.com/WTHerrera/n8n-AWS-ec2
+- Seguir el siguiente **Tutorial** => https://github.com/WTHerrera/n8n-AWS-ec2
 - Despues de varios pasos debemos tener una instancia creada como: `i-05xxxxxx28513xxx (n8n-AWS)` 
 ---
 ### ✅ Paso 1: Conectarse a la instancia EC2 de AWS mediante SSH
