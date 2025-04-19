@@ -77,11 +77,6 @@ sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-
-Aquí tienes una versión mejorada del texto, con mejor redacción, formato más claro y sugerencias para facilitar la comprensión:
-
----
-
 ### ✅ Paso 8: Ejecutar el contenedor Docker de N8N
 
 > ⚠ **Requisito previo**: Debes tener un **subdominio configurado** (por ejemplo: `n8n.tudominio.com`) que apunte a la **IP pública** de tu instancia EC2.  
